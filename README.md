@@ -1,7 +1,7 @@
 # PackingChecklist
 
 
-- [x] Pick Destination
+- [X] Pick Destination
 - [ ] Schedule trip dates with all stakeholders
 - [ ] Verify Visa Requirements
 
